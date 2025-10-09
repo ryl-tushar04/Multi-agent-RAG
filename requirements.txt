@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.0.300
+pinecone-client
+sentence-transformers
+transformers
+torch
+pdfplumber
+PyPDF2
+ollama
+pinecone>=5.0.0
