@@ -1,4 +1,4 @@
-# 📄 PDF Chatbot with Llama 3, LangChain, and Pinecone
+# 📄 Multi-agent RAG with Llama 3, LangChain, and Pinecone
 
 A powerful, end-to-end chatbot application that allows users to have an interactive conversation with their PDF documents. The app leverages a Retrieval-Augmented Generation (RAG) architecture to provide accurate, context-aware answers based solely on the content of the uploaded PDF.
 
