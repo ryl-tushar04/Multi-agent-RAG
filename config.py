@@ -1,0 +1,9 @@
+import os
+
+PINECONE_API_KEY = "YOUR API"
+PINECONE_ENV = "us-east-1"
+INDEX_NAME = "rag-index"
+OPENAI_API_KEY = "YOUR API"
+TAVILY_API_KEY = "YOUR API"
+
+OLLAMA_MODEL = "llama3.2"
